@@ -5,12 +5,18 @@ body {
   text-align: center;
   color: blue;
   font-size: 100px;
-  margin: 250px 0 0 0; }
+  margin: 100px 0 0 0; }
 
 #timerBar {
   height: 6px;
   background-color: blue;
   margin: 0 auto; }
+
+h1 {
+  font-size: 100px;
+  color: blue;
+  text-align: center;
+  text-decoration: underline; }
 
 body {
   background-color: orange; }
@@ -19,9 +25,15 @@ body {
   text-align: center;
   color: blue;
   font-size: 100px;
-  margin: 250px 0 0 0; }
+  margin: 100px 0 0 0; }
 
 #timerBar {
   height: 6px;
   background-color: blue;
   margin: 0 auto; }
+
+h1 {
+  font-size: 100px;
+  color: blue;
+  text-align: center;
+  text-decoration: underline; }
